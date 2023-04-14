@@ -98,7 +98,7 @@ ScrollReveal({
 ScrollReveal().reveal('.home-title', {
   origin: 'left',
 })
-ScrollReveal().reveal('.home img, .cards, .contact-content', {
+ScrollReveal().reveal('.home img, .cards, .contact-container', {
   origin: 'right',
 })
 ScrollReveal().reveal('.content', {
