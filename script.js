@@ -95,10 +95,10 @@ ScrollReveal({
   delay: 200,
 })
 
-ScrollReveal().reveal('.home-title, .left-side', {
+ScrollReveal().reveal('.home-title', {
   origin: 'left',
 })
-ScrollReveal().reveal('.home img, .cards, .right-side', {
+ScrollReveal().reveal('.home img, .cards, .contact-content', {
   origin: 'right',
 })
 ScrollReveal().reveal('.content', {
